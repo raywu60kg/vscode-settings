@@ -1,0 +1,16 @@
+{
+    "recommendations": [
+        "esbenp.prettier-vscode",
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "mhutchie.git-graph",
+        "charliermarsh.ruff",
+
+        //remote working
+        "ms-vscode-remote.remote-ssh",
+
+        //theme
+        "PKief.material-icon-theme",
+        "liviuschera.noctis"
+    ]
+}
