@@ -1,9 +1,12 @@
 {
     "recommendations": [
-        "esbenp.prettier-vscode",
+        //git
+        "mhutchie.git-graph",
+        
+        //python
         "ms-python.python",
         "ms-python.vscode-pylance",
-        "mhutchie.git-graph",
+        "ms-pyright.pyright",
         "charliermarsh.ruff",
 
         //remote working
@@ -11,6 +14,9 @@
 
         //theme
         "PKief.material-icon-theme",
-        "liviuschera.noctis"
+        "liviuschera.noctis",
+
+        //others
+        "esbenp.prettier-vscode",
     ]
 }
