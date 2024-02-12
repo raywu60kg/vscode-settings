@@ -6,8 +6,8 @@
             "source.organizeImports.ruff": true,
         },
         "editor.defaultFormatter": "charliermarsh.ruff",
-        "analysis.typeCheckingMode": "basic"
     },
+    "python.analysis.typeCheckingMode": "basic",
     "ruff.lint.args": ["ruff.toml"],
     "[JSON]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode",
