@@ -1,12 +1,14 @@
 {
-    "python.formatting.provider": "black",
     "[python]": {
         "editor.formatOnSave": true,
         "editor.codeActionsOnSave": {
             "source.fixAll.ruff": true,
-            "source.organizeImports.ruff": true
-        }
+            "source.organizeImports.ruff": true,
+        },
+        "editor.defaultFormatter": "charliermarsh.ruff",
+        "analysis.typeCheckingMode": "basic"
     },
+    "ruff.lint.args": ["ruff.toml"],
     "[JSON]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode",
         "editor.formatOnSave": true

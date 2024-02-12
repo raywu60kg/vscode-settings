@@ -1,13 +1,18 @@
 {
     "recommendations": [
-        //git
-        "mhutchie.git-graph",
-        
         //python
         "ms-python.python",
         "ms-python.vscode-pylance",
-        "ms-pyright.pyright",
         "charliermarsh.ruff",
+
+        //common programming
+        "streetsidesoftware.code-spell-checker",
+        
+        //git
+        "mhutchie.git-graph",
+
+        //json and yaml
+        "esbenp.prettier-vscode",
 
         //remote working
         "ms-vscode-remote.remote-ssh",

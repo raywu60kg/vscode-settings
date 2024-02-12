@@ -12,3 +12,5 @@ curl -LJO https://raw.githubusercontent.com/raywu60kg/vscode-settings/main/.vsco
 ## Reference
 - https://github.com/microsoft/vscode-python
 - https://github.com/antfu/vscode-settings
+- https://www.emmanuelgautier.com/blog/enable-vscode-python-type-checking
+- https://github.com/tiangolo/fastapi/tree/master
