@@ -4,7 +4,10 @@
         "ms-python.python",
         "ms-python.vscode-pylance",
         "charliermarsh.ruff",
-
+        
+        //golang
+        "golang.Go",
+        
         //common programming
         "streetsidesoftware.code-spell-checker",
         
@@ -23,5 +26,8 @@
 
         //others
         "esbenp.prettier-vscode",
+
+        //vim 
+        "vscodevim.vim",
     ]
 }
